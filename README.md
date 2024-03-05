@@ -5,9 +5,8 @@
 pygame
 
 ### 演示图
-![](pics/pic1.png)
-![](pics/pic2.png)
-
+![](https://github.com/mglyn/TANKTROUBLE-pythonedition/blob/main/pics/pic2.png)
+![](https://github.com/mglyn/TANKTROUBLE-pythonedition/blob/main/pics/pic2.png)
 
 ### 演示视频
 https://www.bilibili.com/video/BV13d4y1Y7Tx/?vd_source=6d48c8dce1e2a6f3b5318760f3511c93
