@@ -2,7 +2,7 @@
 
 语言:python 3.10.6
 
-pygame
+需要pygame和numpy
 
 ### 演示图
 ![img1](https://github.com/mglyn/TANKTROUBLE-pythonedition/blob/main/pics/pic1.png)
